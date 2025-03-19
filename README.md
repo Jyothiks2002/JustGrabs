@@ -1,3 +1,3 @@
 # JustGrabs
-this website offers online food delivery for my own restaurant
+this website offers online food delivery for my own restaurant.
 Author - Jyothi K S
